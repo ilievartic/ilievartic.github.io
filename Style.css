@@ -1,7 +1,8 @@
 body {
 	background-image: url("http://www.designbolts.com/wp-content/uploads/2013/02/Knitted-Grey-Seamless-Pattern-For-Website-Background.jpg");
-	text-shadow: 3px 2px grey;
+	
 }
+
 text{
 text-align: justify;
 text-transform: capitalize;
@@ -9,10 +10,10 @@ text-transform: capitalize;
 }
 textl{
 text-align: justify;
-text-transform: capitalize;
+
 }
 #button {
 position: absolute;
-top:90%;
-left:0%;
+top:42%;
+left:1%;
 }
